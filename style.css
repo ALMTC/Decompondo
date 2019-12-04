@@ -1,0 +1,12 @@
+@font-face {
+        font-family: ballon;
+        src: url('Balloon.ttf');
+        font-weight:400;
+        font-weight:normal;
+}
+body *{
+	margin: 0;
+	padding: 0;
+	display : block;   
+	margin : auto;
+}
