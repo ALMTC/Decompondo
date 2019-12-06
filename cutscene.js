@@ -101,7 +101,7 @@ class CutScene extends Phaser.Scene {
 				this.zero.visible = true;
 				break;
 			case 8:
-				this.texto.text = "Para descontar sua raiva, ele decidiu\nroubar as operação e causar confusão.";
+				this.texto.text = "Para descontar sua raiva, ele decidiu\nroubar as operações e causar confusão.";
 				this.p3.setTexture("Pduvida3");
 				this.p3.setScale(0.3);
 				break;
