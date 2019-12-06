@@ -69,7 +69,7 @@ class Load extends Phaser.Scene {
 		this.load.audio("BotaoClick","https://static.wixstatic.com/mp3/bb1a3c_9cfdc049d37a45f1830c5e9b61722c95.mp3");
 		this.load.audio("CartaClick","https://static.wixstatic.com/mp3/bb1a3c_84deb8839a8441b7a976a99ab2fa15ce.mp3");
 		this.load.audio("JogadaAcertar","https://static.wixstatic.com/mp3/bb1a3c_1a93395347aa42d3bc82dcf314137bdd.mp3");
-		this.load.audio("JogadaErrar","https://static.wixstatic.com/mp3/bb1a3c_da0fd301be774e6aa91d3c4710236323.mp33");
+		this.load.audio("JogadaErrar","https://static.wixstatic.com/mp3/bb1a3c_da0fd301be774e6aa91d3c4710236323.mp3");
 		this.load.audio("MusLuta1","https://static.wixstatic.com/mp3/bb1a3c_fd1b9bd6430c4c718d0be44c8c7b2d95.mp3");
 		this.load.audio("MusLuta2","https://static.wixstatic.com/mp3/bb1a3c_b8eaab97fda24f1dae7ae7b3ed2e8db9.mp3");
 		this.load.audio("MusMenu", "https://static.wixstatic.com/mp3/bb1a3c_e4bba63b435b486aa66eece830b3c544.mp3");
