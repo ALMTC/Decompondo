@@ -83,7 +83,7 @@ class CutScene extends Phaser.Scene {
 				this.p4.visible = true;
 				break;
 			case 5:
-				this.texto.text = "Sejam bem vindos ao mundo dos numeros. \neu sou o prefeito dessa cidade, o número 1";
+				this.texto.text = "Sejam bem vindos ao mundo dos números. \nEu sou o prefeito dessa cidade, o número 1";
 				this.n1.visible = true;
 				break;
 			case 6:
@@ -96,7 +96,7 @@ class CutScene extends Phaser.Scene {
 				this.p4.setScale(0.3);
 				break;
 			case 7:
-				this.texto.text = "O número zero ficou com raiva por \nnão ser muito últil com soma nem subitração.";
+				this.texto.text = "O número zero ficou com raiva por \nnão ser muito útil com soma nem subtração.";
 				this.p2.setTexture("Pduvida2");
 				this.zero.visible = true;
 				break;
@@ -106,13 +106,13 @@ class CutScene extends Phaser.Scene {
 				this.p3.setScale(0.3);
 				break;
 			case 9:
-				this.texto.text = "Não temos como para-lo sozinhos, por \nisso trouxemos vocês aqui para nos ajudar.";
+				this.texto.text = "Não temos como pará-lo sozinhos, por \nisso trouxemos vocês aqui para nos ajudar.";
 				break;
 			case 10:
-				this.texto.text = "Usem a operação que ele ainda não roubou\npara detê-lo. o número 4 dirá como usa-la.";
+				this.texto.text = "Usem a operação que ele ainda não roubou\npara detê-lo. o número 4 dirá como usá-la.";
 				break;
 			case 11:
-				this.texto.text = "Olá, eu sou o número 4, eu vou acompanhar \nvocês e ajuda em tudo que eu poder.";
+				this.texto.text = "Olá, eu sou o número 4, eu vou acompanhar \nvocês e ajuda em tudo que puder.";
 				this.zero.visible = false;
 				this.n1.visible = false;
 				this.n4.visible = true;
